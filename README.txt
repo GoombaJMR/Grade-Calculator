@@ -1,9 +1,12 @@
-# Grade-Calculator
-This script acts as a grade calculator, and can be used to calculate potential scores and current averages for college and high school students that have weighted categories in classes.
+GRADE CALCULATOR
+Julian M. Rice | May 2018
+
+# DESCRIPTION
+This script acts as a grade calculator, and can be used to calculate potential scores and current averages for college and high school students that have weighted categories in classes. This was completed using Python 3.6.1
 
 # EXAMPLE OUTPUT
 
---WELCOME TO THE GRADE CALCULATOR v2--
+--WELCOME TO THE GRADE CALCULATOR v3--
 ----JULIAN M RICE-------------2018----
 How many grading categories?  4
 Enter grading category name:  Homework
