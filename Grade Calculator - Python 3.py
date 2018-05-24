@@ -1,6 +1,4 @@
 #!/usr/bin/python
-# file grader.py
-
 ###---------GRADING CALCULATOR FINAL VERSION---------###
 ###------------------JULIAN M RICE-------------------###
 ###---------------------MAY 2018---------------------###
